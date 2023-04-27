@@ -34,7 +34,7 @@ Steps:
 * Create a new stylesheet for the modal
     * Change the modal to be aligned vertically at the center of the screen
     * Change the modal content to be aligned to the right
-    * Change the background color of the modal title
+    * Change the background color of the modal header
     * Change the modal to be fullscreen on resolutions lower than 1024x768
 
 * By the end, push your changes with a relevant commit message
